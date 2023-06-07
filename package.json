@@ -65,7 +65,7 @@
     "grunt-terser": "^0.1.0",
     "grunt-text-replace": "~0.4.0",
     "gruntify-eslint": "^4.0.0",
-    "mocha": "^5.0.0",
+    "mocha": "^10.2.0",
     "nyc": "^14.1.1",
     "sinon": "^4.3.0",
     "text-encoding-utf-8": "^1.0.2",
